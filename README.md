@@ -1,4 +1,4 @@
-# SFAE - Starfield Achievement Enabler
+# SFAE - Starfield Achievement Enabler - forked by TaoSecurity to incorporate fixes needed for modern Starfield versions
 
 Allows you to earn achievements while using mods and console commands
 
